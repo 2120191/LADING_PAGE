@@ -7,11 +7,11 @@ git init
 '''
 ## crear entorno virtual de python
 '''branch
-python -m venv .venvgit init
+python -m venv .venv
 
 ## activar
 ''branch
-source  .ven/scripts/activate
+sour.ce  .ven/scripts/activate
 
 # actualizar
 clear
@@ -21,9 +21,11 @@ clear
  python -m pip install --upgrade pip
 ## installar reflex
 
+ python -m pip install 
+
 $ source .venv 
 
-## inciar reflex
+## pythoninciar reflex
 '''
 branch
 ''' reflex init
@@ -36,4 +38,3 @@ reflex run
 
 ## ejecutar lading page
 
-reflex
